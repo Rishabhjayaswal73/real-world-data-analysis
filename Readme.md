@@ -60,7 +60,6 @@
 ---
 
 ## 📁 Repository Structure
-## 📁 Repository Structure
 
 data-analysis-portfolio/
 │
